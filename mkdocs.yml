@@ -28,6 +28,3 @@ theme:
         theme:
   font:
     text: Roboto
-
-markdown_extensions:
-  - tables
