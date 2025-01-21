@@ -10,3 +10,4 @@
 | 2e veroordeling:     | NVT | 30 uur | €4000  |
 | Meerdere veroordeling:|  NVT | 60 uur | €4000  |
 
+

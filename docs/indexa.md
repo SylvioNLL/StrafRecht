@@ -9,3 +9,4 @@
 | Eerste veroordeling:|   NVT    | 50 uur  | €5000  | 65 uur |
 | 2e veroordeling:     | NVT | 60 uur | €5000  | 72 uur |
 | Meerdere veroordeling:|  NVT | 70 uur | €5000  | 91 uur |
+

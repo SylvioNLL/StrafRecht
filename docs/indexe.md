@@ -23,3 +23,4 @@ Wanneer er een mix van de aantallen in lid 6 aangetroffen wordt, zal er met een 
 | Meerdere veroordeling:|  47 maanden | NVT | €8000  |
 | 300 en meer ingredienten:| 60 maanden| NVT | NVT|
 
+

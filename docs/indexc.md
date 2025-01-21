@@ -30,3 +30,4 @@ Dit artikel dient goedgekeurd te worden door een (h)OvJ en/of rechter
 | Eerste veroordeling:|   NVT    | 30 uur | NVT  | 24-48 uur
 | 2e veroordeling:     | NVT | 50 uur | NVT  | 24-48 uur
 | Meerdere veroordeling:|  NVT | 80 uur | NVT  | 24-48 uur
+

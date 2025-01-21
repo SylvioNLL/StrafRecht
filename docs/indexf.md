@@ -20,3 +20,4 @@
 | 2e veroordeling:     | 18 maanden | NVT | €8000  |
 | Meerdere veroordeling:|  23 maanden | NVT | €8000  |
 | 300 en meer ingredienten:| 60 maanden| NVT | NVT|
+

@@ -8,3 +8,4 @@
 | Eerste veroordeling:|   18 maanden    | NVT | €5000  | 23 maanden |
 | 2e veroordeling:     | 21 maanden | NVT | €5000  | 27 maanden |
 | Meerdere veroordeling:|  24 maanden | NVT | €5000  | 31 maanden |
+
